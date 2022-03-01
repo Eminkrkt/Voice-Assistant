@@ -1,0 +1,19 @@
+Linux System Requirement :
+
+    SpeechRecognition == 3.8.1
+    gTTS == 2.2.3
+    playsound == 1.3.0
+    pyaudio == 0.2.11
+    colorama == 0.4.4
+    beepy == 1.0.7
+
+
+
+Windows System Requirement :
+
+    SpeechRecognition == 3.8.1
+    gTTS == 2.2.3
+    playsound == 1.3.0
+    pyaudio == 0.2.11
+    colorama == 0.4.4
+    win10toast == 0.9
